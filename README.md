@@ -21,3 +21,6 @@ The Basic structure of the main code goes as
 7) training loop (Epochs is set to 15)
 8) anchor embeddings
 9) inference
+
+PS you need to download the dataset, a link to the whole dataset is also given in the second cell of the code by
+!git clone https://github.com/parth1620/Person-Re-Id-Dataset
