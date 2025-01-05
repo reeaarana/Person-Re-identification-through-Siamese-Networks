@@ -9,7 +9,7 @@ spliting and creating anchor, positive and negative image dataset through which 
 
 Siamese Neural Networks transforms projects with its dual-branch architecture, effortlessly enhancing accuracy in face and signature matching. 
 This indispensable tool streamlines similarity assessments, making it an ideal choice for efficient and reliable comparisons.
-Elevate your project with SiameseNN's seamless integration and precision. 🚀
+Elevate your project with SiameseNN's seamless integration and precision. 
 
 The Basic structure of the main code goes as
 1) Importing the libraries & uploading the dataset
